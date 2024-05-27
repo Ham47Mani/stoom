@@ -22,7 +22,7 @@
   <p align="center">
     STOOM (ZOOM Clone), STOOM is a simple video call app using getStream API & SDK.
     <br />
-    <a href="https://hb-linkedin-clone.netlify.app">View Demo</a>
+    <a href="https://stoom.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Ham47Mani/stoom/issues">Report Bug</a>
     ·
